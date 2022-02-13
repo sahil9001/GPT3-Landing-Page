@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# GPT3 Landing Page Mockup 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Figma Design : https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3
+
+Hosted at : https://gpt-3-landing-page.vercel.app/
+# Final Screenshot
+![](https://github.com/sahil9001/GPT3-Landing-Page/blob/master/src/assets/gpt-3-landing-page.vercel.app_.png)
 
 ## Available Scripts
 
